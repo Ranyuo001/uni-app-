@@ -24,10 +24,16 @@
 				"navigationBarTitleText": "demo3"
 			}
 		},
-    {
+		{
 			"path": "pages/index/demo4/demo4",
 			"style": {
 				"navigationBarTitleText": "demo4"
+			}
+		},
+    {
+			"path": "pages/index/demo5/demo5",
+			"style": {
+				"navigationBarTitleText": "demo5"
 			}
 		}
 	],
@@ -36,5 +42,7 @@
 		"navigationBarTitleText": "uni-app",
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
-	}
+	},
+	"subPackages": [
+	]
 }
