@@ -42,6 +42,9 @@
     <navigator url="demo5/demo5" open-type="reLaunch" class="demoList">
       跳转到demo5(vue3语法)
     </navigator>
+    <navigator url="demo6/demo6" open-type="reLaunch" class="demoList">
+      跳转到demo6(vue3语法)
+    </navigator>
   </view>
 </template>
 
