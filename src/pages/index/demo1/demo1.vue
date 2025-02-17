@@ -1,5 +1,5 @@
 <template>
-  <view>这是demo1</view>
+  <view></view>
 </template>
 
 <script setup lang="ts">
