@@ -17,12 +17,12 @@
     </view>
     <view class="comment">
       <input type="text" placeholder="请输入热梗..." v-model="iptValue" @confirm="onsubmit" />
-      <button size="mini" type="primary" :disabled="!iptValue.length" @click="onsubmit">发布</button>
+      <button size="mini" type:any="primary" :disabled="!iptValue.length" @click="onsubmit">发布</button>
     </view>
   </view>
 </template>
 
-<script setup>
+<script lang="ts" setup>
 import { ref } from "vue";
 const lists = ref([
   { id: 111, title: "刚满18岁" },
@@ -33,7 +33,7 @@ const lists = ref([
 
 const iptValue = ref('')
 
-function onClose(id) {
+function onClose(id: number) {
   // 查找要删除元素的索引
   const index = lists.value.findIndex(item => item.id === id)
   // 如果找到元素，则从数组中删除

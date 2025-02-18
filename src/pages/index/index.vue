@@ -57,6 +57,9 @@
     <navigator url="demo10/demo10" open-type="reLaunch" class="demoList">
       跳转到demo10(热梗案例)
     </navigator>
+    <navigator url="demo11/demo11" open-type="reLaunch" class="demoList">
+      跳转到demo11(计算属性)
+    </navigator>
   </view>
 </template>
 
