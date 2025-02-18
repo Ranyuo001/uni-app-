@@ -41,6 +41,18 @@
 			"style": {
 				"navigationBarTitleText": "demo6"
 			}
+		},
+		{
+			"path": "pages/index/demo7/demo7",
+			"style": {
+				"navigationBarTitleText": "demo7"
+			}
+		},
+		{
+			"path": "pages/index/demo8/demo8",
+			"style": {
+				"navigationBarTitleText": "demo8"
+			}
 		}
 	],
 	"globalStyle": {
