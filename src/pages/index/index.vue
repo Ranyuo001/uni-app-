@@ -51,6 +51,9 @@
     <navigator url="demo8/demo8" open-type="reLaunch" class="demoList">
       跳转到demo8(小鸡案例)
     </navigator>
+    <navigator url="demo9/demo9" open-type="reLaunch" class="demoList">
+      跳转到demo9(vue3语法)
+    </navigator>
   </view>
 </template>
 
