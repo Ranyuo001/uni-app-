@@ -60,6 +60,9 @@
     <navigator url="demo11/demo11" open-type="reLaunch" class="demoList">
       跳转到demo11(计算属性)
     </navigator>
+    <navigator url="demo12/demo12" open-type="reLaunch" class="demoList">
+      跳转到demo12(watch侦听器)
+    </navigator>
   </view>
 </template>
 

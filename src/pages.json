@@ -71,6 +71,12 @@
 			"style": {
 				"navigationBarTitleText": "demo11"
 			}
+		},
+		{
+			"path": "pages/index/demo12/demo12",
+			"style": {
+				"navigationBarTitleText": "demo12"
+			}
 		}
 	],
 	"globalStyle": {
