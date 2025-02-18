@@ -59,6 +59,12 @@
 			"style": {
 				"navigationBarTitleText": "demo9"
 			}
+		},
+		{
+			"path": "pages/index/demo10/demo10",
+			"style": {
+				"navigationBarTitleText": "热梗案例"
+			}
 		}
 	],
 	"globalStyle": {
