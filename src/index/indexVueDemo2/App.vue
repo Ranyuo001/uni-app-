@@ -30,6 +30,15 @@
     <navigator url="./pages/demo1/demo1" open-type="reLaunch" class="demoList">
       跳转到demo1(基础组件)
     </navigator>
+    <navigator url="./pages/demo2/demo2" open-type="reLaunch" class="demoList">
+      跳转到demo2(基础组件)
+    </navigator>
+    <navigator url="./pages/demo3/demo3" open-type="reLaunch" class="demoList">
+      跳转到demo3(基础组件)
+    </navigator>
+    <navigator url="./pages/demo4/demo4" open-type="reLaunch" class="demoList">
+      跳转到demo4(基础组件)
+    </navigator>
   </view>
 </template>
 

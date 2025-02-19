@@ -1,18 +1,41 @@
 <template>
   <view class="userinfo">
     <!-- <image :src="avatar" mode="" class="avatar"></image> -->
-    <image :src="avatar" mode="" class="avatar"></image>
-    <view class="username">{{ username }}</view>
+    <!-- <image :src="avatar" mode="" class="avatar"></image>
+    <view class="username">{{ username }}</view> -->
+    <image :src="obj.avatar" mode="scaleToFill" class="avatar" />
+    <view>{{ obj.username }}</view>
   </view>
 </template>
 
 <script lang="ts" setup>
 import { computed, ref } from "vue"
-const props = defineProps(['username', 'avatar'])
+// const props = defineProps(['username', 'avatar'])
 // const myname = computed(() => {
 //   return props.username
 // })
-console.log(props);
+
+// const props = defineProps({
+//   username: {
+//     type: String,
+//     default: '匿名'
+//   },
+//   avatar: {
+//     type: String,
+//     default: '../../../../static/logo.png'
+//   }
+// })
+defineProps({
+  obj: {
+    type: Object,
+    default: () => {
+      return {
+        username: '匿名',
+        avatar: '../../../../static/logo.png'
+      }
+    }
+  }
+})
 
 
 </script>

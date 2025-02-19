@@ -101,6 +101,24 @@
 			"style": {
 				"navigationBarTitleText": "demo1"
 			}
+		},
+		{
+			"path": "index/indexVueDemo2/pages/demo2/demo2",
+			"style": {
+				"navigationBarTitleText": "demo2"
+			}
+		},
+		{
+			"path": "index/indexVueDemo2/pages/demo3/demo3",
+			"style": {
+				"navigationBarTitleText": "demo3"
+			}
+		},
+		{
+			"path": "index/indexVueDemo2/pages/demo4/demo4",
+			"style": {
+				"navigationBarTitleText": "demo4"
+			}
 		}
 	],
 	"globalStyle": {
