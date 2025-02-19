@@ -27,13 +27,41 @@
   <view>---------</view>
 
   <view>
-
-    <navigator url="../../index/indexVueDemo1/App" open-type="reLaunch" class="demoList">
-      跳转到indexVueDemo1
+    <navigator url="../../pages/index/demo1/demo1" open-type="reLaunch" class="demoList">
+      跳转到demo1(基础组件)
     </navigator>
-
-    <navigator url="../../index/indexVueDemo2/App" open-type="reLaunch" class="demoList">
-      跳转到indexVueDemo2
+    <navigator url="../../pages/index/demo2/demo2" open-type="reLaunch" class="demoList">
+      跳转到demo2(按钮组件)
+    </navigator>
+    <navigator url="../../pages/index/demo3/demo3" open-type="reLaunch" class="demoList">
+      跳转到demo3(vue3语法)
+    </navigator>
+    <navigator url="../../pages/index/demo4/demo4" open-type="reLaunch" class="demoList">
+      跳转到demo4(vue3语法)
+    </navigator>
+    <navigator url="../../pages/index/demo5/demo5" open-type="reLaunch" class="demoList">
+      跳转到demo5(vue3语法)
+    </navigator>
+    <navigator url="../../pages/index/demo6/demo6" open-type="reLaunch" class="demoList">
+      跳转到demo6(vue3语法)
+    </navigator>
+    <navigator url="../../pages/index/demo7/demo7" open-type="reLaunch" class="demoList">
+      跳转到demo7(vue3语法)
+    </navigator>
+    <navigator url="../../pages/index/demo8/demo8" open-type="reLaunch" class="demoList">
+      跳转到demo8(小鸡案例)
+    </navigator>
+    <navigator url="../../pages/index/demo9/demo9" open-type="reLaunch" class="demoList">
+      跳转到demo9(vue3语法)
+    </navigator>
+    <navigator url="../../pages/index/demo10/demo10" open-type="reLaunch" class="demoList">
+      跳转到demo10(热梗案例)
+    </navigator>
+    <navigator url="../../pages/index/demo11/demo11" open-type="reLaunch" class="demoList">
+      跳转到demo11(计算属性)
+    </navigator>
+    <navigator url="../../pages/index/demo12/demo12" open-type="reLaunch" class="demoList">
+      跳转到demo12(watch侦听器)
     </navigator>
   </view>
 </template>

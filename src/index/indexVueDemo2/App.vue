@@ -27,13 +27,8 @@
   <view>---------</view>
 
   <view>
-
-    <navigator url="../../index/indexVueDemo1/App" open-type="reLaunch" class="demoList">
-      跳转到indexVueDemo1
-    </navigator>
-
-    <navigator url="../../index/indexVueDemo2/App" open-type="reLaunch" class="demoList">
-      跳转到indexVueDemo2
+    <navigator url="./pages/demo1/demo1" open-type="reLaunch" class="demoList">
+      跳转到demo1(基础组件)
     </navigator>
   </view>
 </template>

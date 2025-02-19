@@ -77,6 +77,30 @@
 			"style": {
 				"navigationBarTitleText": "demo12"
 			}
+		},
+		{
+			"path": "index/indexVueDemo1/App",
+			"style": {
+				"navigationBarTitleText": "App"
+			}
+		},
+		{
+			"path": "index/indexVueDemo2/App",
+			"style": {
+				"navigationBarTitleText": "App"
+			}
+		},
+		{
+			"path": "index/indexVueDemo1/demo1",
+			"style": {
+				"navigationBarTitleText": "demo1"
+			}
+		},
+		{
+			"path": "index/indexVueDemo2/pages/demo1/demo1",
+			"style": {
+				"navigationBarTitleText": "demo1"
+			}
 		}
 	],
 	"globalStyle": {
