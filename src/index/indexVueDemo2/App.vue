@@ -39,6 +39,18 @@
     <navigator url="./pages/demo4/demo4" open-type="reLaunch" class="demoList">
       跳转到demo4(基础组件)
     </navigator>
+    <navigator url="./pages/demo5/demo5" open-type="reLaunch" class="demoList">
+      跳转到demo5(基础组件)
+    </navigator>
+    <navigator url="./pages/demo6/demo6" open-type="reLaunch" class="demoList">
+      跳转到demo6(基础组件)
+    </navigator>
+    <navigator url="./pages/demo7/demo7" open-type="reLaunch" class="demoList">
+      跳转到demo7(基础组件)
+    </navigator>
+    <navigator url="./pages/demo8/demo8" open-type="reLaunch" class="demoList">
+      跳转到demo8(基础组件)
+    </navigator>
   </view>
 </template>
 

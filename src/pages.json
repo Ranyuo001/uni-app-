@@ -119,6 +119,30 @@
 			"style": {
 				"navigationBarTitleText": "demo4"
 			}
+		},
+		{
+			"path": "index/indexVueDemo2/pages/demo5/demo5",
+			"style": {
+				"navigationBarTitleText": "demo5"
+			}
+		},
+		{
+			"path": "index/indexVueDemo2/pages/demo6/demo6",
+			"style": {
+				"navigationBarTitleText": "demo6"
+			}
+		},
+		{
+			"path": "index/indexVueDemo2/pages/demo7/demo7",
+			"style": {
+				"navigationBarTitleText": "demo7"
+			}
+		},
+		{
+			"path": "index/indexVueDemo2/pages/demo8/demo8",
+			"style": {
+				"navigationBarTitleText": "demo8"
+			}
 		}
 	],
 	"globalStyle": {
